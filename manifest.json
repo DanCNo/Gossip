@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Configuration.CredentialsConfiguration.html",
-          "hash": "yRxWi7BQm4ikKl2PQqq40w=="
+          "hash": "vq9GOeFo6qADWtqWEAyZow=="
         }
       },
       "is_incremental": false,
@@ -30,7 +30,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Configuration.DatabaseMonitoring.html",
-          "hash": "T5nyy44PgSDp+5Vw6netKg=="
+          "hash": "efR1BgE0SYYWoSoK+30RYA=="
         }
       },
       "is_incremental": false,
@@ -42,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Configuration.IDatabaseMonitoring.html",
-          "hash": "J9XVV03KeoSC9EhKC03GgQ=="
+          "hash": "c748BsSx3rJWNb6Gr8xhCQ=="
         }
       },
       "is_incremental": false,
@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.ConnectionString.html",
-          "hash": "6khUUWKfNqy5F5M36bXi+w=="
+          "hash": "NvLU8P0SeqeHmPdU6mGpDw=="
         }
       },
       "is_incremental": false,
@@ -78,7 +78,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Database.html",
-          "hash": "EQIFW+BHj2QKxou/9u2PgQ=="
+          "hash": "SAtSGme8ZJtY0v7ZuZmloQ=="
         }
       },
       "is_incremental": false,
@@ -90,7 +90,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.DatabaseConfiguration.html",
-          "hash": "KfeVdGFuw2by1K4+D1jFQw=="
+          "hash": "X9fVrLeksb997Bz90ZKjxg=="
         }
       },
       "is_incremental": false,
@@ -102,7 +102,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.DatabaseConnection.html",
-          "hash": "hFfMUlAZ2EPfDF/jJOXz1A=="
+          "hash": "3izqBxkVGdCLHJ0CwkA6cw=="
         }
       },
       "is_incremental": false,
@@ -114,7 +114,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.DatabaseConnectionProvider.html",
-          "hash": "SiL9hVBiSJqrpDzWL1msZg=="
+          "hash": "l7qyI7R4iMLhL/6Ap7DzlA=="
         }
       },
       "is_incremental": false,
@@ -126,7 +126,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Exceptions.DatabaseConnectionException.html",
-          "hash": "GVfurk/N1Bx0XAHEvBcQDg=="
+          "hash": "a7XWtlzZ0rZe/k/u1qxrrA=="
         }
       },
       "is_incremental": false,
@@ -138,7 +138,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Exceptions.DatabaseResolutionException.html",
-          "hash": "Mku7BdwRBy9qb2ZPVv8zaA=="
+          "hash": "KDrGYSrLDD3j8mZsxIfJcA=="
         }
       },
       "is_incremental": false,
@@ -162,7 +162,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Factories.MsSql.html",
-          "hash": "ZYD5z/FIxHnKr/MCPrpvmA=="
+          "hash": "VtkObolYnMlQe3SDe4iUzA=="
         }
       },
       "is_incremental": false,
@@ -186,7 +186,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Fluent.BulkInsertConfigurator-1.html",
-          "hash": "qW28a+G8A7eyC/2ka6FX/g=="
+          "hash": "WBlE25IXR4ndKh92EQUgtQ=="
         }
       },
       "is_incremental": false,
@@ -198,7 +198,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Fluent.ExecutionDetails.html",
-          "hash": "KHJ8k53eVUHzwkeIcs/seA=="
+          "hash": "KuEl9gReWNjvV9fWXwlbqQ=="
         }
       },
       "is_incremental": false,
@@ -210,7 +210,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Fluent.FunctionMetadata.html",
-          "hash": "8K+tFjGMYSdFARMxwvR89Q=="
+          "hash": "uEdaoPK9wRhuRQrIZJEN0Q=="
         }
       },
       "is_incremental": false,
@@ -222,7 +222,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Fluent.IBulkInsertConfigurator-1.html",
-          "hash": "jMmX3ij1Vd5xZwXAdpFkzw=="
+          "hash": "G1kInTZSRD1Zx8GT9DPXUA=="
         }
       },
       "is_incremental": false,
@@ -234,7 +234,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Fluent.IBulkQueryExecutor.html",
-          "hash": "5FaF9ekxWKsjfBtSP8hSOQ=="
+          "hash": "aTUXqvIdfIpNXh7LPRcsiQ=="
         }
       },
       "is_incremental": false,
@@ -246,7 +246,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Fluent.IExecutionDetails.html",
-          "hash": "xxy8gPma8Za3MMO4GaHpZA=="
+          "hash": "34o6RIfrZSAEW0fnJ1W5Ng=="
         }
       },
       "is_incremental": false,
@@ -258,7 +258,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Fluent.IPartitionConfigurator-1.html",
-          "hash": "nEtXDACJg6bEwGoXppOJdw=="
+          "hash": "WnOcOuVQmGEVgk6INIYEqw=="
         }
       },
       "is_incremental": false,
@@ -270,7 +270,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Fluent.IQueryConfigurator.html",
-          "hash": "y5ogYq9qw/T2jBbYFcKKXw=="
+          "hash": "9QIQ5gulX9ewdqR3ts2+/w=="
         }
       },
       "is_incremental": false,
@@ -282,7 +282,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Fluent.IQueryExecutor.html",
-          "hash": "+1GB1r0Ygkpr1ztjqdd6UA=="
+          "hash": "4Fhb+YPkC9oC4Z+tM1dJFA=="
         }
       },
       "is_incremental": false,
@@ -294,7 +294,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Fluent.IQueryExecutorProvider.html",
-          "hash": "aVBdO40ZOqORa8TWmbguVg=="
+          "hash": "6Ywf22hoduLpBYEFaefhtQ=="
         }
       },
       "is_incremental": false,
@@ -306,7 +306,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Fluent.ISqlConnection.html",
-          "hash": "HlBWdVrgn+CG4okgnDG2XQ=="
+          "hash": "PmL26/TmKJCWQX/V9zJ1BA=="
         }
       },
       "is_incremental": false,
@@ -318,7 +318,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Fluent.IUpdatableQueryExecutor.html",
-          "hash": "eCHUaekaH7U5ZBAtb7Qicw=="
+          "hash": "3CcTpjvfr98VQuVroiq78Q=="
         }
       },
       "is_incremental": false,
@@ -330,7 +330,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Fluent.PartitionedQueryConfigurator-1.html",
-          "hash": "YU0vqA8FTyxCmg+yFchA/g=="
+          "hash": "th/hSusfq8tjo5LFh3YEcw=="
         }
       },
       "is_incremental": false,
@@ -342,7 +342,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Fluent.QueryConfiguration.html",
-          "hash": "OeGZJdRsWa/N4OeONU4hRw=="
+          "hash": "Pj1UARbYGJyfu1boNcHaKA=="
         }
       },
       "is_incremental": false,
@@ -354,7 +354,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Fluent.QueryConfigurator.html",
-          "hash": "aBd952bTr2LNvhl/6KJ1dg=="
+          "hash": "uQRdGz5VYU4I6opWJWVqZA=="
         }
       },
       "is_incremental": false,
@@ -366,7 +366,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Fluent.QueryExecutor.html",
-          "hash": "5wa44zo3lfe7ni3cdk5sfw=="
+          "hash": "qQr7SqrOS57Bg7EStx9ZyA=="
         }
       },
       "is_incremental": false,
@@ -378,7 +378,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.Fluent.QueryExecutorProvider.html",
-          "hash": "pWyV8UwAdGkmZMeBwd9W3w=="
+          "hash": "PhexcWqhx7FQIYBTaRfV1w=="
         }
       },
       "is_incremental": false,
@@ -402,7 +402,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.IConnectionDetails.html",
-          "hash": "KooOTdX1c29DeyN3YepcJg=="
+          "hash": "HzfwzdHQhE5zpok+M0rTBQ=="
         }
       },
       "is_incremental": false,
@@ -414,7 +414,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.IConnectionString.html",
-          "hash": "1xk8MoRTxeu+DNRzkvH7CQ=="
+          "hash": "Eav/KuHT+ksw3sK3BBc6aQ=="
         }
       },
       "is_incremental": false,
@@ -426,7 +426,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.IDatabaseConfigurator.html",
-          "hash": "pf3wgPrTB8Ggr8bH1aJPMQ=="
+          "hash": "uuN61Nl1iUiRpUrcZ04xmQ=="
         }
       },
       "is_incremental": false,
@@ -438,7 +438,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.IDatabaseConnection.html",
-          "hash": "afB9INXBnKni5GEqLW5bSw=="
+          "hash": "0X3PDjMbfwVLIYXA/5QbCg=="
         }
       },
       "is_incremental": false,
@@ -450,7 +450,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.IDatabaseConnectionProvider.html",
-          "hash": "WUjjcHNYM0e4GCzfhstjug=="
+          "hash": "z0hLN+liPtiPPIXjwUzpZA=="
         }
       },
       "is_incremental": false,
@@ -462,7 +462,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.ISqlConnectionFactory.html",
-          "hash": "UnblOxioZJAQqNeCfLHTvQ=="
+          "hash": "GlNAb0gusCET1xrIy180fg=="
         }
       },
       "is_incremental": false,
@@ -474,7 +474,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.NoopExecutionStrategy.html",
-          "hash": "pi6I00GKoS6Gxcap6h334g=="
+          "hash": "klQxQjWj5h7tJtd9ePNf5A=="
         }
       },
       "is_incremental": false,
@@ -486,7 +486,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.SqlConnectionExtensions.html",
-          "hash": "AYhMMlBxc+yrlpB1y8nbWw=="
+          "hash": "3+7Vj37G9PfTIYJxfwq8UA=="
         }
       },
       "is_incremental": false,
@@ -498,7 +498,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.SqlConnectionWrapper.html",
-          "hash": "azq0dA/4Vdd1R5tQzMcZXQ=="
+          "hash": "ii62a+8GuctNWYimwi2FjQ=="
         }
       },
       "is_incremental": false,
@@ -510,7 +510,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Connection.UsageDetails.html",
-          "hash": "YYc6KmAObeelddaqZB0Mbg=="
+          "hash": "4cG9kU34OapE6+cRd7RLww=="
         }
       },
       "is_incremental": false,
@@ -534,7 +534,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.ConnectionStrings.ConnectionStringSettings.html",
-          "hash": "/sfcHb584SbNUttdwWPPcA=="
+          "hash": "zEmwX3Pxm3+fCxrEQVS74Q=="
         }
       },
       "is_incremental": false,
@@ -546,7 +546,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.ConnectionStrings.IConnectionStringBuilder.html",
-          "hash": "5BxU1yHqdBhwDJKqTeMMWw=="
+          "hash": "eiBRewC5mVgb529AhaMJ7w=="
         }
       },
       "is_incremental": false,
@@ -558,7 +558,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.ConnectionStrings.IConnectionStringProvider.html",
-          "hash": "F+RLjXGIV8vW4kZZO/FWww=="
+          "hash": "SkNEGUj94OPHnd2aA8OgcQ=="
         }
       },
       "is_incremental": false,
@@ -570,7 +570,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.ConnectionStrings.IConnectionStringSettings.html",
-          "hash": "/bh9cR+wyjbv4yobBBd9bw=="
+          "hash": "6jdjKwZSlzuYQRHk6thQPw=="
         }
       },
       "is_incremental": false,
@@ -582,7 +582,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.ConnectionStrings.MsSqlConnectionStringBuilder.html",
-          "hash": "lf+banjBC7EfNw0F4PmClg=="
+          "hash": "5jX3SevjX8/JXGb4zDUSGQ=="
         }
       },
       "is_incremental": false,
@@ -606,7 +606,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Containers.IContext.html",
-          "hash": "xunUPMgqCIGFcgK04Ul7RQ=="
+          "hash": "QmccGwtk7Q/vU1Gio/OYIg=="
         }
       },
       "is_incremental": false,
@@ -630,7 +630,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Monitoring.IDatabaseMonitorReport.html",
-          "hash": "i6dE6blWKaXGWnuMzsYigw=="
+          "hash": "G6bjOgQdkPBAR5vhDSUMaQ=="
         }
       },
       "is_incremental": false,
@@ -654,7 +654,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Plugins.IDatabasePlugin.html",
-          "hash": "d+hjBwbyLPmKvrNJ7sfLlA=="
+          "hash": "PM2Gx5ScPxKVabPi1OoFFw=="
         }
       },
       "is_incremental": false,
@@ -666,7 +666,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Plugins.IPluginManager.html",
-          "hash": "CFz+lU05ooqnZaNbrXQDFg=="
+          "hash": "or9FH/kYvCRJs2ccqPJO5A=="
         }
       },
       "is_incremental": false,
@@ -678,7 +678,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Plugins.NullPluginException.html",
-          "hash": "7VNz7BfSCuYCjVtEb4umGQ=="
+          "hash": "6jkl+YTxomThXXSBpfOCBA=="
         }
       },
       "is_incremental": false,
@@ -690,7 +690,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Plugins.PluginInstantiationException.html",
-          "hash": "tzY8WUrb9qXh200dJAne2w=="
+          "hash": "me/Ef9Esm27gaxbnB04tQQ=="
         }
       },
       "is_incremental": false,
@@ -702,7 +702,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Plugins.PluginManager.html",
-          "hash": "lXmF/zjG9f64hDDE+mPAcQ=="
+          "hash": "2JMMXuTbYc7PlGPRtJadRg=="
         }
       },
       "is_incremental": false,
@@ -726,7 +726,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Strategies.IExecutionStrategy.html",
-          "hash": "CVIHDfMD5ZBH1DpWIix4gg=="
+          "hash": "Hyb5599I+XAwfcFzjCsWpQ=="
         }
       },
       "is_incremental": false,
@@ -750,7 +750,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Transactions.ITransaction.html",
-          "hash": "hB5iEwMivkvHF8kjVPy9OA=="
+          "hash": "5chvCOgCDzWX+p3FhcnuVg=="
         }
       },
       "is_incremental": false,
@@ -762,7 +762,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Transactions.NullTransaction.html",
-          "hash": "D/+x/2odYR9X6fr7M1TDiQ=="
+          "hash": "ZLpDJdP8i2tI9umckgGqeg=="
         }
       },
       "is_incremental": false,
@@ -786,7 +786,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Utilities.CollectionExtensions.html",
-          "hash": "jjeJQwhHfhaHlNZmDrbRTw=="
+          "hash": "juP8O54MU+eKhI68PcA2ig=="
         }
       },
       "is_incremental": false,
@@ -798,7 +798,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Gossip.Utilities.EnumerableExtensions.html",
-          "hash": "00/i+dzZky4Q3FvC5ZCMeg=="
+          "hash": "pwOhK5XyuudbOdWy7/WF4g=="
         }
       },
       "is_incremental": false,
@@ -837,7 +837,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "NSKCEu2aTDRXwS7/Vsd3lQ=="
+          "hash": "X5WC432brhIJR5vAyUsmNA=="
         }
       },
       "is_incremental": false,
